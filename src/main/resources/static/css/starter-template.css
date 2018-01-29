@@ -1,0 +1,11 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+input.ng-touched.ng-invalid, textarea.ng-touched.ng-invalid{
+	border-color: #F99;
+}

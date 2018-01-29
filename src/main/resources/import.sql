@@ -1,0 +1,3 @@
+insert into sistema(descricao, sigla, url, email, status) values ('Ios Informática Organização e Sistemas', 'IIOS', 'iios.com.br', 'iios@mail.com.br', 'ATIVO');
+insert into sistema(descricao, sigla, url, email, status) values ('Sistemas de Informação', 'SI', 'si.com.br', 'si@mail.com.br', 'ATIVO');
+insert into sistema(descricao, sigla, url, email, status) values ('Firma Tecnologia em Sistemas de Informação', 'FTSI', 'ftsi.com.br', 'ftsi@mail.com.br', 'ATIVO');
